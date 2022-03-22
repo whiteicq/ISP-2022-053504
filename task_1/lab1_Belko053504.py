@@ -89,11 +89,7 @@ def main():
         print("6. Выход")
         p = input("Выберите желаемую операцию над строкой:\n ")
         if p == "1":
-            try:
-                print(f"Среднее количество слов в предложении: {average_words(input_string)}")
-            except DivisionByZero:
-                print("Количество предложений равно нулю")
-                exit()
+            print(f"Среднее количество слов в предложении: {average_words(input_string)}")
         elif p == "2":
             print(f"Медианное количество слов в предложении: {mediana_words(input_string)}")
         elif p == "3":
@@ -108,7 +104,7 @@ def main():
             checker = False
         else:
             checker = False
-        
+
 
 if __name__ == "__main__":
     main()

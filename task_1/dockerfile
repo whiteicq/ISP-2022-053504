@@ -5,4 +5,4 @@ WORKDIR /task1
 COPY . .
 
 
-CMD ["python", "./app.py"]
+CMD ["python", "./Lab1_Belko053504.py"]
