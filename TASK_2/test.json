@@ -1,0 +1,161 @@
+{
+"type": "function",
+"value": {
+	"__name__": "_t",
+	"__globals__": {
+		"_t": "_t",
+		"d": 5,
+		"math": {
+			"type": "module",
+			"value": {
+				"__name__": "math"
+				}
+			}
+		},
+	"__code__": {
+		"co_argcount": 1,
+		"co_cellvars": [
+			"c"
+			],
+		"co_code": {
+			"type": "bytes",
+			"value": [
+				100,
+				1,
+				137,
+				0,
+				135,
+				0,
+				102,
+				1,
+				100,
+				2,
+				100,
+				3,
+				132,
+				8,
+				125,
+				1,
+				124,
+				1,
+				124,
+				0,
+				131,
+				1,
+				83,
+				0
+				]
+			},
+		"co_consts": [
+			null,
+			2,
+			{
+				"type": "codetype",
+				"value": {
+					"co_argcount": 1,
+					"co_cellvars": [
+
+						],
+					"co_code": {
+						"type": "bytes",
+						"value": [
+							100,
+							1,
+							125,
+							1,
+							116,
+							0,
+							160,
+							1,
+							124,
+							0,
+							124,
+							1,
+							20,
+							0,
+							136,
+							0,
+							20,
+							0,
+							116,
+							2,
+							20,
+							0,
+							161,
+							1,
+							83,
+							0
+							]
+						},
+					"co_consts": [
+						null,
+						123
+						],
+					"co_filename": "/home/ialex/Documents/ISP-2022-053504/task_2/test_module.py",
+					"co_firstlineno": 9,
+					"co_flags": 19,
+					"co_freevars": [
+						"c"
+						],
+					"co_kwonlyargcount": 0,
+					"co_lnotab": {
+						"type": "bytes",
+						"value": [
+							0,
+							1,
+							4,
+							1
+							]
+						},
+					"co_name": "_f",
+					"co_names": [
+						"math",
+						"sin",
+						"d"
+						],
+					"co_nlocals": 2,
+					"co_posonlyargcount": 0,
+					"co_stacksize": 4,
+					"co_varnames": [
+						"arg",
+						"a"
+						]
+					}
+				},
+			"_t.<locals>._f"
+			],
+		"co_filename": "/home/ialex/Documents/ISP-2022-053504/task_2/test_module.py",
+		"co_firstlineno": 6,
+		"co_flags": 3,
+		"co_freevars": [
+
+			],
+		"co_kwonlyargcount": 0,
+		"co_lnotab": {
+			"type": "bytes",
+			"value": [
+				0,
+				1,
+				4,
+				2,
+				12,
+				4
+				]
+			},
+		"co_name": "_t",
+		"co_names": [
+
+			],
+		"co_nlocals": 2,
+		"co_posonlyargcount": 0,
+		"co_stacksize": 3,
+		"co_varnames": [
+			"arg",
+			"_f"
+			]
+		},
+	"__closure__": [
+
+		]
+	}
+}

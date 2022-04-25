@@ -1,0 +1,6 @@
+BYTES_TYPE_STRING = "bytes"
+CLASS_TYPE_STRING = "class"
+INSTANCE_TYPE_STRING = "instance"
+FUNCTION_TYPE_STRING = "function"
+CODE_TYPE_STRING = "codetype"
+MODULE_TYPE_STRING = "module"
