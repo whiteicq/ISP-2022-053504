@@ -1,0 +1,310 @@
+[type]
+str = "function"
+
+[value]
+__closure__ = []
+
+[value.__name__]
+str = "_t"
+
+[value.__code__]
+co_freevars = []
+co_names = []
+[[value.__code__.co_cellvars]]
+str = "c"
+
+[[value.__code__.co_consts]]
+None = "None"
+
+[[value.__code__.co_consts]]
+int = "2"
+
+[[value.__code__.co_consts]]
+
+[value.__code__.co_consts.type]
+str = "codetype"
+[value.__code__.co_consts.value]
+co_cellvars = []
+[[value.__code__.co_consts.value.co_consts]]
+None = "None"
+
+[[value.__code__.co_consts.value.co_consts]]
+int = "123"
+
+[[value.__code__.co_consts.value.co_freevars]]
+str = "c"
+
+[[value.__code__.co_consts.value.co_names]]
+str = "math"
+
+[[value.__code__.co_consts.value.co_names]]
+str = "sin"
+
+[[value.__code__.co_consts.value.co_names]]
+str = "d"
+
+[[value.__code__.co_consts.value.co_varnames]]
+str = "arg"
+
+[[value.__code__.co_consts.value.co_varnames]]
+str = "a"
+
+[value.__code__.co_consts.value.co_argcount]
+int = "1"
+[value.__code__.co_consts.value.co_code]
+[[value.__code__.co_consts.value.co_code.value]]
+int = "100"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "1"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "125"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "1"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "116"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "0"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "160"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "1"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "124"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "0"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "124"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "1"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "20"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "0"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "136"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "0"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "20"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "0"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "116"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "2"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "20"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "0"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "161"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "1"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "83"
+
+[[value.__code__.co_consts.value.co_code.value]]
+int = "0"
+
+[value.__code__.co_consts.value.co_filename]
+str = "/home/ialex/Documents/ISP-2022-053504/task_2/test_module.py"
+[value.__code__.co_consts.value.co_firstlineno]
+int = "9"
+[value.__code__.co_consts.value.co_flags]
+int = "19"
+[value.__code__.co_consts.value.co_kwonlyargcount]
+int = "0"
+[value.__code__.co_consts.value.co_lnotab]
+[[value.__code__.co_consts.value.co_lnotab.value]]
+int = "0"
+
+[[value.__code__.co_consts.value.co_lnotab.value]]
+int = "1"
+
+[[value.__code__.co_consts.value.co_lnotab.value]]
+int = "4"
+
+[[value.__code__.co_consts.value.co_lnotab.value]]
+int = "1"
+
+[value.__code__.co_consts.value.co_name]
+str = "_f"
+[value.__code__.co_consts.value.co_nlocals]
+int = "2"
+[value.__code__.co_consts.value.co_posonlyargcount]
+int = "0"
+[value.__code__.co_consts.value.co_stacksize]
+int = "4"
+[value.__code__.co_consts.value.co_code.type]
+str = "bytes"
+[value.__code__.co_consts.value.co_lnotab.type]
+str = "bytes"
+[[value.__code__.co_consts]]
+str = "_t.<locals>._f"
+
+[[value.__code__.co_varnames]]
+str = "arg"
+
+[[value.__code__.co_varnames]]
+str = "_f"
+
+[value.__globals__._t]
+str = "_t"
+
+[value.__globals__.d]
+int = "5"
+
+[value.__code__.co_argcount]
+int = "1"
+
+[value.__code__.co_code]
+[[value.__code__.co_code.value]]
+int = "100"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "137"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[[value.__code__.co_code.value]]
+int = "135"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[[value.__code__.co_code.value]]
+int = "102"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "100"
+
+[[value.__code__.co_code.value]]
+int = "2"
+
+[[value.__code__.co_code.value]]
+int = "100"
+
+[[value.__code__.co_code.value]]
+int = "3"
+
+[[value.__code__.co_code.value]]
+int = "132"
+
+[[value.__code__.co_code.value]]
+int = "8"
+
+[[value.__code__.co_code.value]]
+int = "125"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "124"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "124"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[[value.__code__.co_code.value]]
+int = "131"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "83"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[value.__code__.co_filename]
+str = "/home/ialex/Documents/ISP-2022-053504/task_2/test_module.py"
+
+[value.__code__.co_firstlineno]
+int = "6"
+
+[value.__code__.co_flags]
+int = "3"
+
+[value.__code__.co_kwonlyargcount]
+int = "0"
+
+[value.__code__.co_lnotab]
+[[value.__code__.co_lnotab.value]]
+int = "0"
+
+[[value.__code__.co_lnotab.value]]
+int = "1"
+
+[[value.__code__.co_lnotab.value]]
+int = "4"
+
+[[value.__code__.co_lnotab.value]]
+int = "2"
+
+[[value.__code__.co_lnotab.value]]
+int = "12"
+
+[[value.__code__.co_lnotab.value]]
+int = "4"
+
+[value.__code__.co_name]
+str = "_t"
+
+[value.__code__.co_nlocals]
+int = "2"
+
+[value.__code__.co_posonlyargcount]
+int = "0"
+
+[value.__code__.co_stacksize]
+int = "3"
+
+[value.__globals__.math.type]
+str = "module"
+
+[value.__code__.co_code.type]
+str = "bytes"
+
+[value.__code__.co_lnotab.type]
+str = "bytes"
+
+[value.__globals__.math.value.__name__]
+str = "math"
